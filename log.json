@@ -1,0 +1,46 @@
+[
+    {
+        "datetime": "2020-05-06 07:47:09",
+        "N": 5,
+        "Cats": [
+            "Chinchilla Persian\n",
+            "Manx\n",
+            "Pixie-bob\n"
+        ],
+        "CountAll": 1,
+        "CountN": 1
+    },
+    {
+        "datetime": "2020-05-06 07:47:43",
+        "N": 5,
+        "Cats": [
+            "Chinchilla Persian\n",
+            "Manx\n",
+            "Pixie-bob\n"
+        ],
+        "CountAll": 2,
+        "CountN": 2
+    },
+    {
+        "datetime": "2020-05-06 07:47:52",
+        "N": 1,
+        "Cats": [
+            "Abyssinian Cat\n",
+            "California Spangled\n",
+            "Toyger\n"
+        ],
+        "CountAll": 3,
+        "CountN": 1
+    },
+    {
+        "datetime": "2020-05-06 07:49:19",
+        "N": 123,
+        "Cats": [
+            "British Longhair\n",
+            "Khao Manee\n",
+            "Pixie-bob\n"
+        ],
+        "CountAll": 4,
+        "CountN": 1
+    }
+]
